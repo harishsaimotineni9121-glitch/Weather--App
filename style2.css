@@ -16,7 +16,7 @@ body{
     background-image:linear-gradient(
             rgba(3, 25, 60, 0.20),
             rgba(2, 20, 48, 0.40)
-        ),url("/images/background.png");
+        ),url("background.png");
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
